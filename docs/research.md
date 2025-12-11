@@ -1,4 +1,4 @@
-# Travel Price Tracker (Milestone 1)
+# Travel Price Tracker - Research
 
 ## What my app is supposed to do
 My app will track flight prices and hotel prices for trips the user wants to take. The app should alert the user when a price drops so they can buy it at the best time. The goal is to help people save money without checking prices every day.
@@ -79,4 +79,3 @@ My app will:
 - Price-tracking apps already exist, so the idea is realistic.
 - React, Node, and MongoDB work well for dashboard apps.
 - Amadeus has enough free features to build a working version.
-
