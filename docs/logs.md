@@ -30,13 +30,19 @@ Each week I will summarize my milestone activity and progress by writing a stand
 
 ## ⚙️ Overview
 
+Good week! I got to reveiew all my workf rom the previous class and review some items I definitly could brush up on in regaurds to back end programming.
+
 ## 🌵 Challenges
+
+Working on different branches has always been confusing for me. this week I have made main, and staging, and dev, but im also supposed to work on feature branches inside of dev? That is always a bit confusing for me.
 
 ## 🏆 Accomplishments
 
+I feel great after reviewing express and server and route connections. Like I said previously, backend is not my favorite but reviewing express has ben benifitial 
+
 ## 🔮 Next Steps
 
-
+Next steps are to redo annd up my figma framework. I have a nice design but could definitly be cleaned up.
 
 
 
