@@ -1,5 +1,6 @@
 # Travel Price Tracker - Research
 
+
 ## What my app is supposed to do
 My app will track flight prices and hotel prices for trips the user wants to take. The app should alert the user when a price drops so they can buy it at the best time. The goal is to help people save money without checking prices every day.
 
